@@ -11,6 +11,7 @@ import { DynamicRoutingModule } from './dynamic-routing/dynamic-routing.module';
   declarations: [
     AppComponent,
     DynamicRoutingComponent,
+    
   ],
   imports: [
     BrowserModule,
